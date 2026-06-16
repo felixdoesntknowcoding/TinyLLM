@@ -1,0 +1,8 @@
+[package]
+name = "tiny_llm"
+version = "0.1.0"
+edition = "2021"
+description = "A theoretical tiny LLM-style prompt-to-output engine that prefers abstaining over hallucinating."
+license = "MIT"
+
+[dependencies]
